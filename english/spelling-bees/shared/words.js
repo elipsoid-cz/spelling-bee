@@ -482,6 +482,7 @@ var SPELLING_BEE_SETS = {
         },
     },
     "2026-06-01": {
+        cover: true,
         title: "June 1",
         date: "2026-06-01",
         description: "Thinking, Growth, and Challenge",
